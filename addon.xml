@@ -16,7 +16,6 @@
 		<description lang="ru_RU">Порт EventEmitter node.js на python.</description>
 		<description lang="uk_UA">Порт EventEmitter из node.js на python.</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<platform>all</platform>
 		<email>nkvoronov@gmail.com</email>
 		<source>https://github.com/nkvoronov/script.module.pyee.git</source>
 		<assets>
